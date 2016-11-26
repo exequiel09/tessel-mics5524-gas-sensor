@@ -32,14 +32,14 @@ setTimeout(function(){
 
 ### Methods
 
-#### gasSensorInstance.getGasLevel(cb)  
-Get the current gas level.  
+#### gasSensorInstance.getGasLevel(cb)
+Get the current gas level.
 
-#### gasSensorInstance.startReading(readInterval, cb)  
+#### gasSensorInstance.startReading(readInterval, cb)
 Start reading the gas level in the specified time interval
 
-#### gasSensorInstance.stopReading(cb)  
+#### gasSensorInstance.stopReading()
 Stops reading the gas level
 
-### Licensing  
+### Licensing
 MIT
