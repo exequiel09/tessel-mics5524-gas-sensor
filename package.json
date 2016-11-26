@@ -1,0 +1,23 @@
+{
+  "name": "tessel-mics5524-gas-sensor",
+  "version": "0.0.1",
+  "description": "Tessel module package for Adafruit MiCS5524 CO / Alcohol / VOC Gas Sensor Breakout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "email": "exequiel.navarrete09@gmail.com",
+    "name": "Exequiel Ceasar Navarrete",
+    "url": "https://github.com/exequiel09"
+  },
+  "contributors": [
+    "Ernesto Pile <erpile@yahoo.com>"
+  ],
+  "repository": "https://github.com/exequiel09/tessel-mics5524-gas-sensor",
+  "keywords": [
+    "Tessel",
+    "Adafruit MICS 5524"
+  ],
+  "license": "MIT"
+}
